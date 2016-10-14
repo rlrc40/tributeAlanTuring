@@ -1,0 +1,39 @@
+h1 {
+  font-family: Georgia, serif;
+  font-size: 4em;
+  text-align: center;
+}
+
+.global-box {
+	padding: 3vw;	
+  text-align: center;
+  background-color: #e0e0e0;
+  margin: 0 0 0 0;
+}
+.picture-box {
+  width: 15vw;
+  padding: 1.2vw;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: white;
+}
+
+#image1{
+  width:100%;
+}
+
+.text-box {
+  width:30vw;
+  padding:  1.2vw;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: Courier, monospace;
+  font-size: 12px;
+}
+
+.box-down {
+  height : 20vh;
+  background-color: #424242;
+  float: bottom;
+  margin: 0 0 0 0;
+}
